@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-proeto
+# dio-desafio-github-primeiro-projeto
 Desafio dio projeto github
